@@ -1,0 +1,1 @@
+This was an exercise I made following Platzi Free Basic Programming Course. I was trying to learn canvas and JS.
